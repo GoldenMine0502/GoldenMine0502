@@ -8,8 +8,8 @@
   -  한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
 
 ### Stacks
-  -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript, ...
-  -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, ... 
+  -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript
+  -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django
 
 ### Contests
   - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 공학 페스티벌 학장상 - 인천대학교</a>
