@@ -27,7 +27,7 @@
 
 ### Contact
   - Email: goldenmine05@naver.com
-  - Instagram: https://www.instagram.com/ehe123t/ << 낭만 넘치는 사진찍는 개발자 보고싶으면 여기로
+  - Instagram: https://www.instagram.com/ehe123t << 낭만 넘치는 사진찍는 개발자 보고싶으면 여기로
   - Blog: https://blog.naver.com/ehe123
 
 <!--
