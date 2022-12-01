@@ -24,7 +24,7 @@
 ### Projects
   - <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca(단어 학습 프로그램)</a>
   - <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser(한국어 프로그래밍 언어)</a>
-  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> <a href="http://web.goldenmine.kr:3000/">서비스 링크</a>
+  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> <a href="http://web.goldenmine.kr:3000/">(서비스 링크)</a>
 
 ### Contact
   - Email: goldenmine05@naver.com
