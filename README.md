@@ -1,18 +1,23 @@
 # Hi there 👋
+
 개발잡니다. AI/데이터 분석 개발자가 되려고 합니다.
 
 ## 학력
+
 인천대학교 (송도) 기계공학과 재학 2022.3~
 
 한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
 
 ## 언어
+
 C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript, ...
 
 ## 기술 스택
+
 Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, ... 
 
 ## 대회
+
 ### 2022 공학 페스티벌 학장상 - 인천대학교
 
 인천대학교를 마인크래프트를 통한 메타버스로 구축하는 프로젝트입니다. 현재 진행형이며 교내 학장상, 전국 대학교 연합을 목표로 하고 있습니다.
@@ -38,9 +43,11 @@ https://github.com/owjs3901/ProtectHome
 Java Socket, Swing, 라즈베리파이를 이용하여 식당 주문 POS 디바이스를 휴대용으로 개발했습니다.
 
 ## 교육
+
 멋쟁이 사자처럼 백엔드
 
 ## 개인 프로젝트
+
 ### Serendivoca
 
 https://github.com/GoldenMine0502/Serendivoca
