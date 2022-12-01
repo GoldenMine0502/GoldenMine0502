@@ -1,40 +1,30 @@
-# Hi there 👋
+### Hi there 👋
 
 개발잡니다. AI/데이터 분석 개발자가 되려고 합니다.
 
-<p>
-  멋쟁이 사자처럼 백엔드 2022.3~
-  
-  인천대학교 (송도) 기계공학과 재학 2022.3~
+### Profile
+  -  멋쟁이 사자처럼 백엔드 2022.3~
+  -  인천대학교 (송도) 기계공학과 재학 2022.3~
+  -  한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
 
-  한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
-</p>
+### Stacks
+  -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript, ...
+  -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, ... 
 
-<p>
-C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript, ...
+### Contests
+  - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 공학 페스티벌 학장상 - 인천대학교</a>
+  - 2021 인공지능 학습용 데이터 구축대회 은상 - 아주대학교
+  - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO 굿바이 패스워드 챌린지 은상 - FIDO Aliance</a>
+  - 2017 새싹기업 창업영재캠프 최우수상 - 창업진흥원
 
-  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, ... 
-</p>
+## Projects
+  - <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca</a>
+  - <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser</a>
 
-## 대회
-
-<p>
-<a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 공학 페스티벌 학장상 - 인천대학교</a>
-
-2021 인공지능 학습용 데이터 구축대회 은상 - 아주대학교
-
-<a href="https://github.com/owjs3901/ProtectHome">2020 FIDO 굿바이 패스워드 챌린지 은상 - FIDO Aliance</a>
-
-2017 새싹기업 창업영재캠프 최우수상 - 창업진흥원
-</p>
-
-## 개인 프로젝트
-
-<p>
-  <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca</a>
-
-  <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser</a>
-</p>
+### Contact
+  - Email: goldenmine05@naver.com
+  - Instagram: https://www.instagram.com/ehe123t/
+  - Blog: https://blog.naver.com/ehe123
 
 <!--
 **GoldenMine0502/GoldenMine0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
