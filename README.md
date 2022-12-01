@@ -11,6 +11,7 @@
   -  한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
 
 ### Stacks
+  -  Prefer Language: Java / Kotlin (JVM)
   -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript
   -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, Selenium, Lwjgl
 
