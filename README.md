@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-개발잡니다. Data Scientist가 되려고 합니다.
+안녕하세요, 개발잡니다. Data Scientist가 되고 싶습니다.
 
 데이터 크롤링 / 분석 / 학습에 관심 있습니다.
 
