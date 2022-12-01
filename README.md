@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-개발잡니다. AI/데이터 분석 개발자가 되려고 합니다.
+개발잡니다. AI 개발자가 되려고 합니다.
+
+데이터 크롤링 / 분석 / 학습에 관심 있습니다.
 
 ### Profile
   -  멋쟁이 사자처럼 백엔드 2022.3~
@@ -9,7 +11,7 @@
 
 ### Stacks
   -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript
-  -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django
+  -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, Selenium, Lwjgl
 
 ### Contests
   - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 공학 페스티벌 학장상 - 인천대학교</a>
