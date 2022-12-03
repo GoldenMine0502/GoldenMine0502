@@ -15,8 +15,6 @@
   -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript
   -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, Selenium, Lwjgl
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMine0502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contests
   - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 공학 페스티벌 학장상 - 인천대학교</a>
   - 2021 인공지능 학습용 데이터 구축대회 은상 - 아주대학교
@@ -35,12 +33,12 @@
 
 ### Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMine0502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehe123)](https://solved.ac/ehe123)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenMine0502&count_private=true&show_icons=true)
-
-
 
 <!--
 **GoldenMine0502/GoldenMine0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
