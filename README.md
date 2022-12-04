@@ -22,13 +22,13 @@
   - 2017 새싹기업 창업영재캠프 최우수상 - 창업진흥원
 
 ### Projects
-  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> <a href="http://web.goldenmine.kr:3000/">(서비스 링크)</a>
+  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> http://web.goldenmine.kr:3000/
   - <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser</a>
   - <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca</a>
 
 ### Contact
   - Email: goldenmine05@naver.com
-  - Instagram: https://www.instagram.com/ehe123t << 낭만 넘치는 사진찍는 개발자 보고싶으면 여기로
+  - Instagram: https://www.instagram.com/ehe123t << 낭만 넘치는 사진 찍는 개발자 보고싶으면 여기로
   - Blog: https://blog.naver.com/ehe123
 
 ### Stats
