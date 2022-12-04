@@ -5,7 +5,7 @@
 데이터 크롤링 / 분석 / 학습에 관심 있습니다.
 
 ### Profile
-  -  (코리아교육그룹) SBS아카데미컴퓨터아트학원 구월 프로그래밍 강사 2023.1~ 
+  -  SBS아카데미컴퓨터아트학원 프로그래밍 강사 2023.1~ 
   -  멋쟁이 사자처럼 백엔드 2022.4~
   -  인천대학교 기계공학과 재학 2022.3~
   -  한국디지털미디어고등학교 해킹방어과 졸업 2017.3~2020.2
@@ -22,7 +22,7 @@
   - 2017 새싹기업 창업영재캠프 최우수상 - 창업진흥원
 
 ### Projects
-  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> http://web.goldenmine.kr:3000/
+  - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">인천시 버스노선 개선 프로젝트</a> <a href="http://web.goldenmine.kr:3000/">[서비스 링크]</a>
   - <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser</a>
   - <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca</a>
 
