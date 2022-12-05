@@ -40,6 +40,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenMine0502&count_private=true&show_icons=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GoldenMine0502&label=Profile%20views&color=0e75b6&style=flat" alt="GoldenMine0502" /></p>
+
 <!--
 **GoldenMine0502/GoldenMine0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
