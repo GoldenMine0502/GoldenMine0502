@@ -6,7 +6,7 @@ I'm interested in crawling / analysis / AI.
 
 ### Profile
   -  Programming Lecturer of SBS Academy Computer Art 2023.1~ 
-  -  LikeLion, Backend 2022.4~
+  -  Likelion, Backend 2022.4~
   -  Incheon National University, Mechanical Engineering 2022.3~
   -  Korea Digital Media High School, Hacking Defense (Graduate) 2017.3 ~ 2020.2
   -  I did programming regularly.
