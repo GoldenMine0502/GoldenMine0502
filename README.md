@@ -27,6 +27,9 @@ I'm interested in crawling / analysis / AI.
   - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">Incheon Bus Route Improvement Project</a> [<a href="http://web.goldenmine.kr:3000/">Link PC</a>]
   - <a href="https://github.com/GoldenMine0502/KoreanParser5">KoreanParser</a>
   - <a href="https://github.com/GoldenMine0502/Serendivoca">Serendivoca</a>
+  - <a href="https://github.com/GoldenMine0502/RhythmGameJava">A Simple Rhythm Game</a>
+  - <a href="https://github.com/GoldenMine0502/DietSupport">A Simple Diet Support App</a>
+  - <a href="https://github.com/GoldenMine0502/BeaconServer">A Simple Beacon Attendance App</a>
 
 ### Contact
   - Email: goldenmine05@naver.com
