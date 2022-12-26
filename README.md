@@ -9,7 +9,7 @@ I'm interested in crawling / analysis / AI.
   -  Likelion, Backend 2022.4~
   -  Incheon National University, Mechanical Engineering 2022.3~
   -  Korea Digital Media High School, Hacking Defense (Graduate) 2017.3 ~ 2020.2
-  -  I did programming regularly.
+  -  I do programming regularly.
   -  I was born in 2001.
 
 ### Stacks
