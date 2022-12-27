@@ -39,11 +39,10 @@ I'm interested in crawling / analysis / AI.
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenMine0502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenMine0502&count_private=true&show_icons=true)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehe123)](https://solved.ac/ehe123)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenMine0502&count_private=true&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GoldenMine0502&label=Profile%20views&color=0e75b6&style=flat" alt="GoldenMine0502" /></p>
 
