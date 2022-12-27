@@ -19,7 +19,7 @@ I'm interested in crawling / analysis / AI.
 
 ### Contests
   - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 Engineering Festival (Dean's Award) - Incheon National University</a>
-  - 2021 AI Learning Data Construction Contest (Silver Prize) - Ajau University
+  - 2021 AI Learning Data Construction Contest (Silver Prize) - Ajou University
   - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO Goodbye Password Challenge (Silver Prize) - FIDO Aliance</a>
   - 2017 New Sprout Enterprise Foundation Gifted Camp (The Grand Prize) - Business Start-up Promotion Agency
 
