@@ -21,7 +21,7 @@ I'm interested in crawling / analysis / AI.
   - <a href="https://github.com/GoldenMine0502/INUMinecraftLauncher">2022 Engineering Festival (Dean's Award) - Incheon National University</a>
   - 2021 AI Learning Data Construction Contest (Silver Prize) - Ajou University
   - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO Goodbye Password Challenge (Silver Prize) - FIDO Aliance</a>
-  - 2017 New Sprout Enterprise Foundation Gifted Camp (The Grand Prize) - Business Start-up Promotion Agency
+  - 2017 New Sprout Enterprise Foundation Gifted Camp (The Grand Prize) - Korea Institute of Startup and Entrepreneurship Development
 
 ### Projects
   - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">Incheon Bus Route Improvement Project</a> [<a href="http://web.goldenmine.kr:3000/">Link PC</a>]
