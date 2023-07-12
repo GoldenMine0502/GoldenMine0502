@@ -7,7 +7,7 @@ I'm interested in crawling / analysis / AI.
 ### Profile
   -  Incheon National University, Department of Computer Science and Engineering 2023.3 ~
   -  Programming Lecturer of SBS Academy Computer Art 2023.1 ~ 
-  -  Likelion, Backend 2022.4 ~
+  -  Likelion, Backend 2022.4 ~ 2022.12
   -  Incheon National University, Mechanical Engineering 2022.3 ~ 2023.2
   -  Korea Digital Media High School, Hacking Defense (Graduate) 2017.3 ~ 2020.2
 
