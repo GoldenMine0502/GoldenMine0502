@@ -18,7 +18,7 @@ I'm interested in crawling / analysis / AI.
 
 ### Contests
   - <a href="https://github.com/INU-Metaverse">2022 Engineering Festival (Dean's Award) - Incheon National University</a>
-  - 2021 AI Learning Data Construction Contest (Silver Prize) - Ajou University
+  - 2021 AI Learning Data Construction Contest (bmd-challenge, Silver Prize) - Ajou University
   - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO Goodbye Password Challenge (Silver Prize) - FIDO Aliance</a>
   - 2017 New Sprout Enterprise Foundation Gifted Camp (The Grand Prize) - Korea Institute of Startup and Entrepreneurship Development
 
