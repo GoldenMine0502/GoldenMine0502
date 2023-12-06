@@ -20,7 +20,7 @@ I'm interested in crawling / analysis / AI.
   - <a href="https://github.com/INU-Metaverse">2022 Engineering Festival (Dean's Award) - Incheon National University</a>
   - 2021 AI Learning Data Construction Contest (bmd-challenge, Silver Prize) - Ajou University [<a href="https://sites.google.com/view/bmdchallenge/%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C">Result Page</a>]
   - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO Goodbye Password Challenge (Silver Prize) - FIDO Aliance</a>
-  - 2017 New Sprout Enterprise Foundation Gifted Camp (The Grand Prize) - Korea Institute of Startup and Entrepreneurship Development
+  - 2017 New Sprout Enterprise Foundation Gifted Camp (Prize) - Korea Institute of Startup and Entrepreneurship Development
 
 ### Projects
   - <a href="https://github.com/GoldenMine0502/bus_improvement_backend">Incheon Bus Route Improvement Project</a> [<a href="http://web.goldenmine.kr:3000/">Link PC</a>]
