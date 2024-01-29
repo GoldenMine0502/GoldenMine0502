@@ -13,6 +13,7 @@ I'm interested in crawling / analysis / AI.
 
 ### Stacks
   -  Prefer Language: Java / Kotlin (JVM)
+  -  Mainly Backend, AI (especially sound)
   -  C, Java, Kotlin, Python, C#, HTML, CSS, JavaScript, TypeScript
   -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, Selenium, Lwjgl
 
