@@ -18,7 +18,7 @@ I'm interested in crawling / analysis / AI.
   -  Android Native, Spring, TensorFlow, React, MySQL, Hibernate, Retrofit, Coroutine, Node.js, Django, Selenium, Lwjgl
 
 ### Contests
-  - 2024 Interactive Tutoring Program (Computational Thinking and Software) - Excellence Award
+  - 2024 Interactive Tutoring Program (Computational Thinking and Software, Excellence Award) - Incheon National University 
   - <a href="https://github.com/INU-Metaverse">2022 Engineering Festival (Dean's Award) - Incheon National University</a>
   - 2021 AI Learning Data Construction Contest (bmd-challenge, Silver Prize) - Ajou University [<a href="https://sites.google.com/view/bmdchallenge/%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C">Result Page</a>]
   - <a href="https://github.com/owjs3901/ProtectHome">2020 FIDO Goodbye Password Challenge (Silver Prize) - FIDO Aliance</a>
