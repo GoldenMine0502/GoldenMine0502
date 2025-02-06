@@ -34,7 +34,7 @@ I'm interested in crawling / analysis / AI.
   - <a href="https://github.com/GoldenMine0502/BeaconServer">A Simple Beacon Attendance App</a>
 
 ### Papers
-  - < a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003169596">A study on deep neural network based speech enhancement with self-supervised learning representation / KCI</a>
+  - <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003169596">A study on deep neural network based speech enhancement with self-supervised learning representation / KCI</a>
 
 
 ### Contact
